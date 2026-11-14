@@ -38,6 +38,15 @@ This profile organizes my portfolio by the engineering stages the projects repre
 - [LLM judge bias measurement and calibration](https://github.com/yzhang-master/llm-judge-position-bias-calibration)
 - [Benchmark contamination detection with n-grams and Min-K%](https://github.com/yzhang-master/benchmark-contamination-ngram-minkprob)
 
+### Inference and serving
+
+- [Radix-tree prefix caching with LRU eviction](https://github.com/yzhang-master/radix-tree-prefix-cache-lru)
+- [Continuous batching with chunked prefill](https://github.com/yzhang-master/continuous-batching-chunked-prefill)
+- [EAGLE draft-head training and speculative decoding](https://github.com/yzhang-master/eagle-draft-head-training)
+- [Paged Triton decode attention](https://github.com/yzhang-master/paged-attention-triton-decode)
+- [FP8 and INT4 KV-cache quantization](https://github.com/yzhang-master/kv-cache-fp8-int4-quant)
+- [JSON Schema FSM and token masks](https://github.com/yzhang-master/json-schema-fsm-token-mask)
+
 ### Kernel optimization
 
 - [Fused Triton RMSNorm, RoPE, and SwiGLU](https://github.com/yzhang-master/triton-fused-rmsnorm-rope-swiglu)
