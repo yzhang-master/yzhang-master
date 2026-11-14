@@ -52,7 +52,15 @@ This profile organizes my portfolio by the engineering stages the projects repre
 
 - [Typed-tool ReAct agent with repair retries](https://github.com/yzhang-master/react-agent-typed-tool-schemas)
 - [Docker-validated test-repair agent](https://github.com/yzhang-master/swe-test-repair-agent-docker)
+- [Planner, parallel executors, and verifying critic](https://github.com/yzhang-master/planner-executor-critic-dag)
+- [Browser accessibility-tree and set-of-marks grounding](https://github.com/yzhang-master/browser-agent-a11y-tree-grounding)
+- [Episodic memory consolidation](https://github.com/yzhang-master/episodic-memory-consolidation-agent)
+- [Function-calling SFT and 3B training path](https://github.com/yzhang-master/function-calling-sft-3b)
 - [Indirect prompt-injection detection and capability enforcement](https://github.com/yzhang-master/indirect-prompt-injection-detector)
+
+### Integrated evaluation
+
+- [Verifier, pass@k, judge-bias, and contamination evaluation harness](https://github.com/yzhang-master/llm-eval-harness-judge-contamination)
 
 ### Kernel optimization
 
