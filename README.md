@@ -1,0 +1,47 @@
+# PUSS
+
+AI systems engineer working on model training, inference optimization, and agent infrastructure.
+
+This profile organizes my portfolio by the engineering stages the projects represent. The implementations use current libraries and honest CPU verification; GPU benchmark tables remain pending until they are measured on real hardware.
+
+## Engineering timeline
+
+| Stage | Role | Focus |
+|---|---|---|
+| 2022/02 | Senior ML Engineer | Efficient transformer training and deployment |
+| 2023/01 | Senior AI Engineer | LLM fine-tuning, serving, evaluation, and agents |
+| 2025/01 | Staff AI Engineer | Frontier training, kernels, serving, and agent infrastructure |
+
+## Selected work
+
+### Efficient training and deployment
+
+- [μP coordinate checks and learning-rate transfer](https://github.com/yzhang-master/mup-coordinate-check-lr-transfer)
+- [MinHash-LSH near-duplicate removal](https://github.com/yzhang-master/minhash-lsh-near-dedup)
+- [DDP, AMP, and activation checkpointing](https://github.com/yzhang-master/ddp-amp-activation-checkpointing-memory-bench)
+- [INT8 outlier-decomposition matmul](https://github.com/yzhang-master/llm-int8-outlier-decomposition-matmul)
+- [FlashAttention forward and backward in Triton](https://github.com/yzhang-master/flashattention-triton-fwd-bwd)
+- [BERT ONNX, TensorRT, and dynamic batching](https://github.com/yzhang-master/bert-onnx-tensorrt-dynamic-batching)
+- [Late-interaction retrieval with product quantization](https://github.com/yzhang-master/late-interaction-retrieval-pq)
+- [Hard-negative InfoNCE embedding fine-tuning](https://github.com/yzhang-master/hard-negative-infonce-embedding-ft)
+- [BM25, dense retrieval, RRF, and cross-encoder reranking](https://github.com/yzhang-master/bm25-dense-rrf-crossencoder)
+- [NCCL all-reduce and topology benchmarks](https://github.com/yzhang-master/nccl-allreduce-topology-bench)
+
+### LLM training and evaluation
+
+- [ZeRO-3 vs FSDP2 memory timelines](https://github.com/yzhang-master/zero3-vs-fsdp2-memory-timeline)
+- [NF4 QLoRA and paged AdamW from scratch](https://github.com/yzhang-master/qlora-nf4-double-quant-from-scratch)
+- [Unified DPO, IPO, and KTO trainer](https://github.com/yzhang-master/dpo-ipo-kto-unified-trainer)
+- [YaRN and NTK-aware RoPE context extension](https://github.com/yzhang-master/yarn-rope-128k-context-extension)
+- [Ring attention for context parallelism](https://github.com/yzhang-master/ring-attention-context-parallel)
+- [HF, Megatron, and torch DCP checkpoint resharding](https://github.com/yzhang-master/hf-megatron-dcp-checkpoint-reshard)
+- [LLM judge bias measurement and calibration](https://github.com/yzhang-master/llm-judge-position-bias-calibration)
+- [Benchmark contamination detection with n-grams and Min-K%](https://github.com/yzhang-master/benchmark-contamination-ngram-minkprob)
+
+### Kernel optimization
+
+- [Fused Triton RMSNorm, RoPE, and SwiGLU](https://github.com/yzhang-master/triton-fused-rmsnorm-rope-swiglu)
+
+## Verification
+
+Each implementation repository includes CPU tests, reproduction commands, and a discussion of limitations. Performance numbers are published only when measured; unmeasured GPU results are explicitly marked pending.
