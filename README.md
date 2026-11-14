@@ -80,6 +80,7 @@ This profile organizes my portfolio by the engineering stages the projects repre
 
 ### Integrated systems
 
+- [Paged-KV and speculative LLM serving engine](https://github.com/yzhang-master/llm-serving-engine-paged-kv-specdec)
 - [FSDP2, TP, CP, and FP8 pretraining stack](https://github.com/yzhang-master/fsdp2-tp-cp-fp8-pretraining-stack)
 - [Verifier, pass@k, judge-bias, and contamination evaluation harness](https://github.com/yzhang-master/llm-eval-harness-judge-contamination)
 
