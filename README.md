@@ -60,6 +60,9 @@ This profile organizes my portfolio by the engineering stages the projects repre
 - [Read-only MCP SQL server](https://github.com/yzhang-master/mcp-sql-server-readonly-guard)
 - [Agent trajectory and pass^k reliability evaluation](https://github.com/yzhang-master/agent-trajectory-eval-pass-k)
 - [Docker and Firecracker code sandbox](https://github.com/yzhang-master/firecracker-microvm-code-sandbox)
+- [OpenTelemetry GenAI tracing and deterministic replay](https://github.com/yzhang-master/otel-genai-agent-tracing)
+- [Streaming voice-agent pipeline](https://github.com/yzhang-master/streaming-voice-agent-sub500ms)
+- [Prompt-cache-aware context compaction](https://github.com/yzhang-master/prompt-cache-aware-context-compaction)
 
 ### Frontier training and inference
 
