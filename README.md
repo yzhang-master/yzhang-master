@@ -82,6 +82,9 @@ This profile organizes my portfolio by the engineering stages the projects repre
 
 - [Paged-KV and speculative LLM serving engine](https://github.com/yzhang-master/llm-serving-engine-paged-kv-specdec)
 - [FSDP2, TP, CP, and FP8 pretraining stack](https://github.com/yzhang-master/fsdp2-tp-cp-fp8-pretraining-stack)
+- [SFT, RM, PRM, and GRPO post-training pipeline](https://github.com/yzhang-master/sft-rm-grpo-post-training-pipeline)
+- [Integrated Triton and CUTLASS kernel library](https://github.com/yzhang-master/triton-cutlass-llm-kernel-library)
+- [MCP agent runtime with sandbox, tracing, and replay](https://github.com/yzhang-master/mcp-agent-runtime-microvm-sandbox)
 - [Verifier, pass@k, judge-bias, and contamination evaluation harness](https://github.com/yzhang-master/llm-eval-harness-judge-contamination)
 
 ### Kernel optimization
