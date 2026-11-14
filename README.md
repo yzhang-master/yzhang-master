@@ -40,12 +40,19 @@ This profile organizes my portfolio by the engineering stages the projects repre
 
 ### Inference and serving
 
+- [AWQ vs GPTQ INT4 with a Marlin GPU path](https://github.com/yzhang-master/awq-vs-gptq-int4-marlin-bench)
 - [Radix-tree prefix caching with LRU eviction](https://github.com/yzhang-master/radix-tree-prefix-cache-lru)
 - [Continuous batching with chunked prefill](https://github.com/yzhang-master/continuous-batching-chunked-prefill)
 - [EAGLE draft-head training and speculative decoding](https://github.com/yzhang-master/eagle-draft-head-training)
 - [Paged Triton decode attention](https://github.com/yzhang-master/paged-attention-triton-decode)
 - [FP8 and INT4 KV-cache quantization](https://github.com/yzhang-master/kv-cache-fp8-int4-quant)
 - [JSON Schema FSM and token masks](https://github.com/yzhang-master/json-schema-fsm-token-mask)
+
+### Agent systems
+
+- [Typed-tool ReAct agent with repair retries](https://github.com/yzhang-master/react-agent-typed-tool-schemas)
+- [Docker-validated test-repair agent](https://github.com/yzhang-master/swe-test-repair-agent-docker)
+- [Indirect prompt-injection detection and capability enforcement](https://github.com/yzhang-master/indirect-prompt-injection-detector)
 
 ### Kernel optimization
 
