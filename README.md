@@ -58,8 +58,23 @@ This profile organizes my portfolio by the engineering stages the projects repre
 - [Function-calling SFT and 3B training path](https://github.com/yzhang-master/function-calling-sft-3b)
 - [Indirect prompt-injection detection and capability enforcement](https://github.com/yzhang-master/indirect-prompt-injection-detector)
 
-### Integrated evaluation
+### Frontier training and inference
 
+- [FSDP2 FP8 Llama pretraining](https://github.com/yzhang-master/fsdp2-fp8-pretrain-llama-1b)
+- [GRPO with verifiable math rewards](https://github.com/yzhang-master/grpo-gsm8k-verifiable-rewards)
+- [MoE expert parallelism over all-to-all](https://github.com/yzhang-master/moe-expert-parallel-all2all)
+- [Monte Carlo process reward modeling](https://github.com/yzhang-master/prm-monte-carlo-step-labels)
+- [Blockwise FP8 GEMM for Hopper](https://github.com/yzhang-master/fp8-blockwise-gemm-cutlass-hopper)
+- [NVFP4 weight quantization for Blackwell](https://github.com/yzhang-master/nvfp4-weight-quant-blackwell)
+- [H100/B200 decode roofline analysis](https://github.com/yzhang-master/llm-decode-roofline-h100-b200)
+- [MLA absorbed-weight decode kernel](https://github.com/yzhang-master/mla-absorbed-weights-decode-kernel)
+- [Fused top-k and grouped MoE GEMM](https://github.com/yzhang-master/moe-fused-topk-grouped-gemm)
+- [TP allreduce/compute overlap](https://github.com/yzhang-master/tp-allreduce-compute-overlap)
+- [Prefill/decode disaggregation with KV transfer](https://github.com/yzhang-master/prefill-decode-disagg-rdma-kv)
+
+### Integrated systems
+
+- [FSDP2, TP, CP, and FP8 pretraining stack](https://github.com/yzhang-master/fsdp2-tp-cp-fp8-pretraining-stack)
 - [Verifier, pass@k, judge-bias, and contamination evaluation harness](https://github.com/yzhang-master/llm-eval-harness-judge-contamination)
 
 ### Kernel optimization
