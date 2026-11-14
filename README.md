@@ -57,6 +57,9 @@ This profile organizes my portfolio by the engineering stages the projects repre
 - [Episodic memory consolidation](https://github.com/yzhang-master/episodic-memory-consolidation-agent)
 - [Function-calling SFT and 3B training path](https://github.com/yzhang-master/function-calling-sft-3b)
 - [Indirect prompt-injection detection and capability enforcement](https://github.com/yzhang-master/indirect-prompt-injection-detector)
+- [Read-only MCP SQL server](https://github.com/yzhang-master/mcp-sql-server-readonly-guard)
+- [Agent trajectory and pass^k reliability evaluation](https://github.com/yzhang-master/agent-trajectory-eval-pass-k)
+- [Docker and Firecracker code sandbox](https://github.com/yzhang-master/firecracker-microvm-code-sandbox)
 
 ### Frontier training and inference
 
